@@ -7,3 +7,8 @@ body{
 .greenC{background-color: green;}
 
 .some_color{background-color: blue;}
+
+.big{
+  font-size:    200%;
+  font-weight:  bold;
+}
